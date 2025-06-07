@@ -1,0 +1,26 @@
+{
+    "labels": {
+        "background": {
+            "categorie": "background",
+            "color": [
+                119,
+                11,
+                32
+            ],
+            "id": 33,
+            "id_categorie": 7,
+            "name": "background"
+        },
+        "greenzone": {
+            "categorie": "greenzone",
+            "color": [
+                0,
+                255,
+                42
+            ],
+            "id": 32,
+            "id_categorie": 7,
+            "name": "greenzone"
+        }
+    }
+}
